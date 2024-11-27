@@ -1,36 +1,67 @@
 # Table of contents
 
-* [Tổng quan tài liệu](README.md)
-
-## Tổng quan giao diện
-
-* [Canvas](tong-quan-giao-dien/canvas.md)
-* [Blocks](tong-quan-giao-dien/blocks.md)
-* [Các thao tác luồng hội thoại](tong-quan-giao-dien/cac-thao-tac-luong-hoi-thoai.md)
-
-## Blocks
-
-* [Lượt hội thoại](blocks/luot-hoi-thoai.md)
-* [Tham số](blocks/tham-so.md)
-* [Kích hoạt](blocks/kich-hoat.md)
-* [Khác](blocks/khac.md)
-
-## Công cụ huấn luyện NLP
-
-* [Khái niệm cơ bản về NLP](cong-cu-huan-luyen-nlp/khai-niem-co-ban-ve-nlp.md)
-* [Huấn luyện NLP](cong-cu-huan-luyen-nlp/huan-luyen-nlp.md)
-
-***
-
-* [Tạo AI BOT](tao-ai-bot.md)
-* [Test AI BOT](test-ai-bot.md)
-
-## Tạo chiến dịch
-
-* [Kích hoạt cuộc gọi](tao-chien-dich/kich-hoat-cuoc-goi.md)
-* [Tạo chiến dịch AI BOT](tao-chien-dich/tao-chien-dich-ai-bot.md)
-* [Thống kê & Báo cáo](tao-chien-dich/thong-ke-and-bao-cao.md)
-
-## NÂNG CAO
-
-* [Tạo phản hồi FAQ](nang-cao/tao-phan-hoi-faq.md)
+* [Chào mừng đến với VAgent!](README.md)
+* [Quick Start](quick-start/README.md)
+  * [Bước 1 - Tạo Chatbot](quick-start/buoc-1-tao-chatbot.md)
+  * [Bước 2 - Cài đặt Bot](quick-start/buoc-2-cai-dat-bot.md)
+  * [Bước 3 - Tạo Dữ liệu huấn luyện](quick-start/buoc-3-tao-du-lieu-huan-luyen.md)
+  * [Bước 4 - Dùng thử bot](quick-start/buoc-4-dung-thu-bot.md)
+* [Trang chủ](trang-chu/README.md)
+  * [Thông tin chung](trang-chu/thong-tin-chung/README.md)
+    * [Đăng ký gói](trang-chu/thong-tin-chung/dang-ky-goi.md)
+    * [Thống kê tổng quan](trang-chu/thong-tin-chung/thong-ke-tong-quan.md)
+    * [Dùng thử Voicebot AI](trang-chu/thong-tin-chung/dung-thu-voicebot-ai.md)
+  * [Mã bản quyền](trang-chu/ma-ban-quyen.md)
+  * [Phản hồi, Hỗ trợ & Ngôn ngữ](trang-chu/phan-hoi-ho-tro-and-ngon-ngu.md)
+  * [Thông tin tài khoản](trang-chu/thong-tin-tai-khoan.md)
+  * [Trở Thành Đối Tác](trang-chu/tro-thanh-doi-tac.md)
+* [Xây dựng BOT](xay-dung-bot/README.md)
+  * [Cài đặt Bot](xay-dung-bot/cai-dat-bot/README.md)
+    * [Prompt](xay-dung-bot/cai-dat-bot/prompt/README.md)
+      * [Mẫu nghiệp vụ](xay-dung-bot/cai-dat-bot/prompt/mau-nghiep-vu/README.md)
+        * [Retail (e-commerce)](xay-dung-bot/cai-dat-bot/prompt/mau-nghiep-vu/retail-e-commerce.md)
+        * [Bán lẻ ngành bỉm sữa](xay-dung-bot/cai-dat-bot/prompt/mau-nghiep-vu/ban-le-nganh-bim-sua.md)
+        * [Hỏi khách hàng thời gian và số lượng khách đi tour để tư vấn cụ thể.](xay-dung-bot/cai-dat-bot/prompt/mau-nghiep-vu/hoi-khach-hang-thoi-gian-va-so-luong-khach-di-tour-de-tu-van-cu-the..md)
+        * [Hỏi thông tin khách hàng để gọi tư vấn.](xay-dung-bot/cai-dat-bot/prompt/mau-nghiep-vu/hoi-thong-tin-khach-hang-de-goi-tu-van..md)
+        * [Hỏi số điện thọai tư vấn, kèm xác minh đúng định dạng số điện thoại Việt Nam.](xay-dung-bot/cai-dat-bot/prompt/mau-nghiep-vu/hoi-so-dien-thoai-tu-van-kem-xac-minh-dung-dinh-dang-so-dien-thoai-viet-nam..md)
+        * [Khuyên khách hàng đến cửa hàng trải nghiệm sản phẩm](xay-dung-bot/cai-dat-bot/prompt/mau-nghiep-vu/khuyen-khach-hang-den-cua-hang-trai-nghiem-san-pham.md)
+        * [Hỏi thông tin thời gian và số lượng khách đi tour để tư vấn giá cả.](xay-dung-bot/cai-dat-bot/prompt/mau-nghiep-vu/hoi-thong-tin-thoi-gian-va-so-luong-khach-di-tour-de-tu-van-gia-ca..md)
+    * [Giao diện](xay-dung-bot/cai-dat-bot/giao-dien.md)
+    * [Nâng cao](xay-dung-bot/cai-dat-bot/nang-cao/README.md)
+      * [Độ sáng tạo của bot](xay-dung-bot/cai-dat-bot/nang-cao/do-sang-tao-cua-bot.md)
+      * [Độ tin cậy của câu trả lời](xay-dung-bot/cai-dat-bot/nang-cao/do-tin-cay-cua-cau-tra-loi.md)
+      * [Phản hồi thông tin mạo danh](xay-dung-bot/cai-dat-bot/nang-cao/phan-hoi-thong-tin-mao-danh.md)
+      * [Thu thập thông tin](xay-dung-bot/cai-dat-bot/nang-cao/thu-thap-thong-tin.md)
+      * [Xuất thông tin Google Sheet](xay-dung-bot/cai-dat-bot/nang-cao/xuat-thong-tin-google-sheet.md)
+  * [Dữ liệu huấn luyện](xay-dung-bot/du-lieu-huan-luyen/README.md)
+    * [Topic](xay-dung-bot/du-lieu-huan-luyen/topic.md)
+    * [Tài liệu](xay-dung-bot/du-lieu-huan-luyen/tai-lieu.md)
+    * [Tải lên tài liệu](xay-dung-bot/du-lieu-huan-luyen/tai-len-tai-lieu.md)
+  * [Câu hỏi thường gặp](xay-dung-bot/cau-hoi-thuong-gap/README.md)
+    * [Thêm FAQ thủ công](xay-dung-bot/cau-hoi-thuong-gap/them-faq-thu-cong.md)
+    * [Thêm FAQ hàng loạt](xay-dung-bot/cau-hoi-thuong-gap/them-faq-hang-loat.md)
+  * [Điều hướng nghiệp vụ (Task Oriented)](xay-dung-bot/dieu-huong-nghiep-vu-task-oriented.md)
+  * [Thử nghiệm Trợ lý AI](xay-dung-bot/thu-nghiem-tro-ly-ai/README.md)
+    * [Xem trước Trợ lý AI](xay-dung-bot/thu-nghiem-tro-ly-ai/xem-truoc-tro-ly-ai.md)
+  * [Tích hợp (Integration)](xay-dung-bot/tich-hop-integration/README.md)
+    * [Tích hợp Zalo](xay-dung-bot/tich-hop-integration/tich-hop-zalo.md)
+    * [Tích hợp Messenger](xay-dung-bot/tich-hop-integration/tich-hop-messenger/README.md)
+      * [Tích hợp](xay-dung-bot/tich-hop-integration/tich-hop-messenger/tich-hop.md)
+      * [Trả lời bình luận](xay-dung-bot/tich-hop-integration/tich-hop-messenger/tra-loi-binh-luan.md)
+    * [Tích hợp Website](xay-dung-bot/tich-hop-integration/tich-hop-website.md)
+  * [Chi tiết sử dụng](xay-dung-bot/chi-tiet-su-dung.md)
+  * [Quản lý lịch sử chat](xay-dung-bot/quan-ly-lich-su-chat/README.md)
+    * [Thêm FAQ từ lịch sử chat](xay-dung-bot/quan-ly-lich-su-chat/them-faq-tu-lich-su-chat.md)
+* [Livechat](livechat/README.md)
+  * [Đăng nhập & Quên mật khẩ](livechat/dang-nhap-and-quen-mat-kha/README.md)
+    * [Đăng nhập](livechat/dang-nhap-and-quen-mat-kha/dang-nhap.md)
+    * [Quên mật khẩu](livechat/dang-nhap-and-quen-mat-kha/quen-mat-khau.md)
+  * [Tổng quan](livechat/tong-quan.md)
+  * [Quản lý trò chuyện](livechat/quan-ly-tro-chuyen/README.md)
+    * [Tìm kiếm](livechat/quan-ly-tro-chuyen/tim-kiem.md)
+    * [Gắn nhãn & thông tin khách hàng](livechat/quan-ly-tro-chuyen/gan-nhan-and-thong-tin-khach-hang.md)
+    * [Trả lời tin nhắn thủ công](livechat/quan-ly-tro-chuyen/tra-loi-tin-nhan-thu-cong.md)
+  * [Thông báo (Broadcast)](livechat/thong-bao-broadcast/README.md)
+    * [Tìm kiếm & Lọc](livechat/thong-bao-broadcast/tim-kiem-and-loc.md)
+    * [Tạo mới thông báo](livechat/thong-bao-broadcast/tao-moi-thong-bao.md)
+    * [Xóa thông báo](livechat/thong-bao-broadcast/xoa-thong-bao.md)

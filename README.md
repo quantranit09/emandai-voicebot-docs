@@ -1,17 +1,16 @@
-# Tổng quan tài liệu
+# Chào mừng đến với VAgent!
 
-### Mục đích của tài liệu <a href="#be0xo2gy750u" id="be0xo2gy750u"></a>
+VAgent - nền tảng xây dựng AI Chatbot & Voicebot thông minh kết hợp công nghệ AI tạo sinh GPT & công nghệ quản lý hội thoại, giúp nâng cao năng suất tiếp cận & hỗ trợ hàng ngàn khách hàng chỉ với 1 nhân sự AI hoạt động 24/7 với chi phí chỉ bằng 1/10 so với thuê nhân sự làm việc tại vị trí tương đương.
 
-Tài liệu hướng đến mục đích giới thiệu tổng quan về Bot Flow và hướng dẫn người dùng sử dụng hiệu quả các chức năng thiết kế hội thoại cho AI VOICEBOT.
+* **Đào tạo dễ dàng:** Bất kỳ văn bản nào cũng có thể dùng làm dữ liệu đào tạo. AI tự trích xuất thông tin để trả lời mà không cần dạy từng câu một.
+* **Điều hướng nghiệp vụ:** Thu thập & trích xuất thông tin đảm bảo đúng mục tiêu nghiệp vụ.
+* **Đa kênh tích hợp:** Quản lý hội thoại đa kênh FaceBook, Zalo, Web. Nhân viên can thiệp hỗ trợ bất cứ lúc nào.
 
-### Đối tượng sử dụng <a href="#etgxxrmqn6vm" id="etgxxrmqn6vm"></a>
+### <mark style="color:blue;">Giá trị nhận được khi sử dụng VAgent:</mark>
 
-Chuyên viên thiết kế hội thoại Voicebot: Xây dựng và quản lý Voicebot.
-
-Phiên bản mới (VA version 2 - Kịch bản BOT Flow) này phù hợp với việc xây dựng và quản lý Voicebot thực hiện những nghiệp vụ cơ bản, đối với những nghiệp vụ phức tạp hơn, EM\&AI khuyến khích user sử dụng phiên bản trước đó (VA version 1 - Kịch bản bối cảnh)
-
-### Thiết bị <a href="#cfslcwuevwix" id="cfslcwuevwix"></a>
-
-Tính năng BOT Flow phiên bản hiện tại chỉ khả dụng trên thiết bị máy tính.
-
-![](https://lh3.googleusercontent.com/ULGKM40gqPHJGjlR\_p2QE9ofGmebJeM\_AgaHeBBcy1TiZxOjj0iIKorBepsjIj6DMjOSFU0sadFPbByUUujobOtd5osQYC3z20OJ3Ylwpiu4Db6IKwZU1HkhUnUNy87LexP4KVz1)
+* **Hỗ trợ khách hàng tự động:** Cung cấp các câu trả lời giải đáp các vấn đề của khách hàng. Đáp ứng việc tra cứu lượng thông tin lớn.
+* **Xử lý đơn hàng và thanh toán:** Hỗ trợ quá trình mua sắm online, cung cấp thông tin sản phẩm và thanh toán.
+* **Marketing và quảng cáo:** Gửi thông tin về sản phẩm và chương trình khuyến mãi thông qua tin nhắn.
+* **Lọc nhu cầu người dùng:** Đánh giá nhu cầu người dùng thông qua quá trình giải đáp tư vấn qua tin nhắn.
+* **Đặt lịch hẹn:** Ghi nhận việc đặt lịch của khách hàng thông qua việc hỏi nhu cầu, ngày giờ đặt lịch hẹn.
+* **Thông tin nội bộ và hướng dẫn:** Cung cấp thông tin nội bộ nhanh chóng, hướng dẫn về chính sách, quy trình làm việc cho nhân viên hoặc khách hàng, giảm thời gian tìm kiếm
