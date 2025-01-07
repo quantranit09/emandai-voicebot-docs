@@ -1,6 +1,6 @@
 # Chào mừng đến với VAgent!
 
-VAgent - nền tảng xây dựng AI Chatbot & Voicebot thông minh kết hợp công nghệ AI tạo sinh GPT & công nghệ quản lý hội thoại, giúp nâng cao năng suất tiếp cận & hỗ trợ hàng ngàn khách hàng chỉ với 1 nhân sự AI hoạt động 24/7 với chi phí chỉ bằng 1/10 so với thuê nhân sự làm việc tại vị trí tương đương.
+VAgent - nền tảng xây dựng AI Chatbot thông minh kết hợp công nghệ AI tạo sinh GPT & công nghệ quản lý hội thoại, giúp nâng cao năng suất tiếp cận & hỗ trợ hàng ngàn khách hàng chỉ với 1 nhân sự AI hoạt động 24/7 với chi phí chỉ bằng 1/10 so với thuê nhân sự làm việc tại vị trí tương đương.
 
 * **Đào tạo dễ dàng:** Bất kỳ văn bản nào cũng có thể dùng làm dữ liệu đào tạo. AI tự trích xuất thông tin để trả lời mà không cần dạy từng câu một.
 * **Điều hướng nghiệp vụ:** Thu thập & trích xuất thông tin đảm bảo đúng mục tiêu nghiệp vụ.
