@@ -1,17 +1,32 @@
-# Tổng quan tài liệu
+# TỔNG QUAN
 
-### Mục đích của tài liệu <a href="#be0xo2gy750u" id="be0xo2gy750u"></a>
+## **Giới thiệu**&#x20;
 
-Tài liệu hướng đến mục đích giới thiệu tổng quan về Bot Flow và hướng dẫn người dùng sử dụng hiệu quả các chức năng thiết kế hội thoại cho AI VOICEBOT.
+Như đã đề cập ở trên, nền tảng thứ 2 mà EM\&AI cung cấp là Hybridchat cho phép quản trị viên theo dõi, tham gia trực tiếp vào các cuộc hội thoại đang diễn ra giữa VA và khách hàng, kiểm tra hiệu quả hoạt động của VA và ghi chú để đào tạo thêm trong quá trình sử dụng
 
-### Đối tượng sử dụng <a href="#etgxxrmqn6vm" id="etgxxrmqn6vm"></a>
+## Bắt đầu với livechat
 
-Chuyên viên thiết kế hội thoại Voicebot: Xây dựng và quản lý Voicebot.
+Truy cập đường dẫn [http://livechat.vnlp.ai/](http://livechat.vnlp.ai/) và thực hiện đăng nhập vào hệ thống trò chuyện kết hợp- hybridchat với tài khoản mà công ty EM\&AI đã cung cấp.&#x20;
 
-Phiên bản mới (VA version 2 - Kịch bản BOT Flow) này phù hợp với việc xây dựng và quản lý Voicebot thực hiện những nghiệp vụ cơ bản, đối với những nghiệp vụ phức tạp hơn, EM\&AI khuyến khích user sử dụng phiên bản trước đó (VA version 1 - Kịch bản bối cảnh)
+{% hint style="info" %}
+Giao diện hybridchat hiển thị tất cả các VA đã được tạo bởi EM\&AI Virtual Agent. Người dùng lựa chọn VA cần hỗ trợ  trực tuyến.
+{% endhint %}
 
-### Thiết bị <a href="#cfslcwuevwix" id="cfslcwuevwix"></a>
+![](<.gitbook/assets/image (24).png>)
 
-Tính năng BOT Flow phiên bản hiện tại chỉ khả dụng trên thiết bị máy tính.
+Sau khi đăng nhập hybridchat, người dùng có thể thực hiện 1 số thao tác đối với tài khoản như:&#x20;
 
-![](https://lh3.googleusercontent.com/ULGKM40gqPHJGjlR\_p2QE9ofGmebJeM\_AgaHeBBcy1TiZxOjj0iIKorBepsjIj6DMjOSFU0sadFPbByUUujobOtd5osQYC3z20OJ3Ylwpiu4Db6IKwZU1HkhUnUNy87LexP4KVz1)
+* Đổi mật khẩu.
+* Đăng Xuất.
+* Thay đổi ngôn ngữ.&#x20;
+
+![](<.gitbook/assets/bat dau.png>)
+
+Bên cạnh đó người dùng có thể xem thông báo và tham gia cuộc trò chuyện giữa VA và khách hàng.&#x20;
+
+Thông báo gồm có 2 loại (Tham khảo thêm tại phần “Gửi thông báo cho nhân viên” của nền tảng Virtual Agent):
+
+* Tham gia phòng: Admin nhấn vào thông báo này sẽ tham gia vào cuộc trò chuyện.
+* Thông báo thông thường: Admin nhấn vào thông báo để xem cuộc trò chuyện.
+
+![](<.gitbook/assets/bat dau 1.png>)

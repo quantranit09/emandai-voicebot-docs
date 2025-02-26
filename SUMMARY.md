@@ -1,36 +1,23 @@
 # Table of contents
 
-* [Tổng quan tài liệu](README.md)
+* [TỔNG QUAN](README.md)
 
-## Tổng quan giao diện
+## QUẢN LÝ TRÒ CHUYỆN <a href="#quan-ly-tro-chuyen-1" id="quan-ly-tro-chuyen-1"></a>
 
-* [Canvas](tong-quan-giao-dien/canvas.md)
-* [Blocks](tong-quan-giao-dien/blocks.md)
-* [Các thao tác luồng hội thoại](tong-quan-giao-dien/cac-thao-tac-luong-hoi-thoai.md)
+* [Tham gia trò chuyện](quan-ly-tro-chuyen-1/tham-gia-tro-chuyen.md)
+* [AI đề xuất](quan-ly-tro-chuyen-1/ai-de-xuat.md)
+* [Thông tin khách hàng](quan-ly-tro-chuyen-1/thong-tin-khach-hang.md)
+* [Quản lý khách hàng](quan-ly-tro-chuyen-1/quan-ly-khach-hang.md)
 
-## Blocks
+## THỐNG KÊ BÁO CÁO
 
-* [Lượt hội thoại](blocks/luot-hoi-thoai.md)
-* [Tham số](blocks/tham-so.md)
-* [Kích hoạt](blocks/kich-hoat.md)
-* [Khác](blocks/khac.md)
+* [Thống kê truy cập](thong-ke-bao-cao/thong-ke-truy-cap.md)
+* [Phân tích](thong-ke-bao-cao/phan-tich.md)
+* [Thống kê nâng cao](thong-ke-bao-cao/thong-ke-nang-cao.md)
+* [Báo cáo tùy chọn](thong-ke-bao-cao/bao-cao-tuy-chon.md)
 
-## Công cụ huấn luyện NLP
+## TÍCH HỢP
 
-* [Khái niệm cơ bản về NLP](cong-cu-huan-luyen-nlp/khai-niem-co-ban-ve-nlp.md)
-* [Huấn luyện NLP](cong-cu-huan-luyen-nlp/huan-luyen-nlp.md)
-
-***
-
-* [Tạo AI BOT](tao-ai-bot.md)
-* [Test AI BOT](test-ai-bot.md)
-
-## Tạo chiến dịch
-
-* [Kích hoạt cuộc gọi](tao-chien-dich/kich-hoat-cuoc-goi.md)
-* [Tạo chiến dịch AI BOT](tao-chien-dich/tao-chien-dich-ai-bot.md)
-* [Thống kê & Báo cáo](tao-chien-dich/thong-ke-and-bao-cao.md)
-
-## NÂNG CAO
-
-* [Tạo phản hồi FAQ](nang-cao/tao-phan-hoi-faq.md)
+* [Messenger](tich-hop/messenger.md)
+* [Zalo](tich-hop/zalo.md)
+* [Website](tich-hop/website.md)
