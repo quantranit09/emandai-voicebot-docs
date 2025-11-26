@@ -113,13 +113,21 @@ Người dùng bấm vào nút **Lưu** tại **(03)** để lưu cài đặt Ph
 
 <figure><img src="../.gitbook/assets/13.png" alt=""><figcaption><p><em>Hình 2: Cài đặt và lưu cài đặt phản hồi FAQ.</em></p></figcaption></figure>
 
-* Block nào được Lưu cài đặt Phản hồi FAQ thì sẽ hiện “Phản hồi FAQ” ngay dưới tag chọn ý định.
+Block nào được Lưu cài đặt Phản hồi FAQ thì sẽ hiện “Phản hồi FAQ” ngay dưới tag chọn ý định.
 
-_**(Xem Hình 3)**_
+_(Xem Hình 3)_
 
 <figure><img src="../.gitbook/assets/14.png" alt=""><figcaption><p><em>Hình 3: Giao diện của 1 block có cài đặt phản hồi FAQ.</em></p></figcaption></figure>
 
-* **Thêm tính năng Copy/ Paste khối cho V2:** Tính năng cho phép người dùng có thể dùng thao tác nhấn tổ hợp phím Ctrl C, Ctrl V để sao chép và dán một khối trong khi thiết kế luồng hội thoại.
+Để cấu hình luồng ra dữ liệu khi đạt giới hạn FAQ hoặc rơi vào luồng mặc định, người dùng thêm một khối "Điều kiện" nối với phản hồi mặc định và cấu hình như sau:
+
+* **fallbackType = NORMAL:** luồng đi khi số lần phát intent đạt giới hạn
+* **fallbackType = FAQ:** luồng đi khi **tổng số lần phát FAQ** đạt giới hạn
+* **fallbackType = SINGLE\_FAQ:** luồng đi khi **số lần phát của một FAQ** đạt giới hạn
+
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+
+**Thêm tính năng Copy/ Paste khối cho V2:** Tính năng cho phép người dùng có thể dùng thao tác nhấn tổ hợp phím Ctrl C, Ctrl V để sao chép và dán một khối trong khi thiết kế luồng hội thoại.
 
 Tính năng copy - paste khối hội thoại cho phép người dùng sao chép và dán một khối hội thoại bất kỳ trong phạm vi xây dựng kịch bản V2. Tính năng này nhằm giúp người dùng tiết kiệm thời gian tạo kịch bản và hoàn thiện kịch bản ở tốc độ nhanh hơn.
 
