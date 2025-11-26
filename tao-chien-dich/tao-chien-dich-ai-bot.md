@@ -63,7 +63,7 @@ Chọn "Tải xuống" mẫu danh sách khách hàng&#x20;
 Sau khi tải lên có thể chỉnh sửa hoặc xóa liên hệ
 {% endhint %}
 
-![Danh sách gọi sau khi tải lên](<../.gitbook/assets/image (3).png>)
+![Danh sách gọi sau khi tải lên](<../.gitbook/assets/image (3) (1).png>)
 
 (4) Chọn "Tiếp tục" để đến "Cài đặt nâng cao"
 

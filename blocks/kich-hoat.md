@@ -36,7 +36,7 @@ Cần tạo trước danh sách nhân viên hỗ trợ trước khi kích hoạt
 
 (4) Chọn Lưu để hoàn tất
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 #### Thêm nhân viên
 
@@ -50,7 +50,7 @@ Cần tạo trước danh sách nhân viên hỗ trợ trước khi kích hoạt
 
 (4) Chọn Lưu để hoàn tất
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 ### Kích hoạt chuyển hướng cuộc gọi
 

@@ -25,13 +25,13 @@ Báo cáo tổng quan cho biết những số liệu :&#x20;
   * Cuộc gọi lỗi: cuộc gọi không kết nối được do lỗi đường truyền (CU)
 * Thời lượng cuộc gọi: Tổng thời gian tương tác giữa khách hàng với Voicebot AI từ lúc nghe máy đến lúc kết thúc cuộc gọi.
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 ### Báo cáo chi tiết
 
 Báo cáo chi tiết cho biết trạng thái, thời lượng và mã kết quả của từng cuộc gọi.
 
-Chọn <img src="../.gitbook/assets/image (6).png" alt="" data-size="line"> để nghe lại hoặc <img src="../.gitbook/assets/image (50).png" alt="" data-size="line"> để tải xuống file audio cuộc gọi
+Chọn <img src="../.gitbook/assets/image (6) (1).png" alt="" data-size="line"> để nghe lại hoặc <img src="../.gitbook/assets/image (50).png" alt="" data-size="line"> để tải xuống file audio cuộc gọi
 
 ![](<../.gitbook/assets/image (47).png>)
 
