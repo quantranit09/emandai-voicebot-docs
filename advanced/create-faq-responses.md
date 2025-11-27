@@ -50,21 +50,42 @@ Select the Context tab (HOME / SCRIPT BUILDING / SCRIPT (V1.0) / CONTEXT), click
 
 ### Step 4: Add responses to the FAQ intent
 
-1. Scroll down to the bottom of the page, click on Response at (8)
-2. Click the ADD BLOCK button at (9)
+This configuration step allows the bot to automatically respond when an FAQ intent is triggered during the conversation. Users can set up one or multiple response blocks with custom conditions. Please follow the instructions below:
 
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+**Add a New Response Block (Optional)**
 
-3. Click the arrow at (10) to go to detailed settings for response
-4. Click the CREATE RESPONSE button at (11) to display the Response pop-up
-5. Enter the response name in the NAME box at (4.4)
-6. Enter response content in the TEXT box at (4.5)
-7. Press the SAVE button at (4.6) to save the response.
+<figure><img src="../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+* Click **ADD BLOCK** at section.
+* Click the arrow at "block 1" to open the detailed settings for that response block.
 
-8. Press the X to close the pop-up.
-9. Press the SAVE button to save the settings.
+**Add Conditions to Trigger the Response Block (Optional)**
+
+<figure><img src="../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
+
+* Select **"Condition"**, then choose **"Rule"** to create a new condition.
+* Users may also configure **AND/OR** logic to combine multiple conditions for more complex scenarios.
+
+**Configure Parameters When the Block Is Triggered (Optional)**
+
+<figure><img src="../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
+
+Allows users to configure parameters and their values. When the response block is activated, the system will automatically record the parameter name and its assigned value.
+
+**Add Responses (Optional)**
+
+<figure><img src="../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+
+* Click **"Add New Response"** to create a new bot response.
+* Responses applied to FAQ will appear under **"Selected Responses"**.
+* Users can also reuse existing responses by dragging them from **"Available Responses"** to **"Selected Responses"**.
+
+**Note:**
+
+* If multiple responses are added under **Selected Responses**, the system will deliver **each response sequentially** when the FAQ is triggered.
+* If you want to use multiple variations for a single response, click **"Add"** to insert additional message templates.
+
+<figure><img src="../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 ## Create FAQ responses
 
@@ -73,28 +94,34 @@ Select the Context tab (HOME / SCRIPT BUILDING / SCRIPT (V1.0) / CONTEXT), click
 1. From the toolbar (left), drag and drop the User says/ User says (advance) block into the Canvas.
 2. Click on the block, and the system will display the General Configuration settings. (See picture 1)
 
-<figure><img src="../.gitbook/assets/image (65).png" alt=""><figcaption><p>Figure 1: Enable the General configuration setting - FAQ response.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2: Select FAQ response
 
 Tick the FAQ Response box at (01) to show the FAQ Response setting. (See picture 2)
 
-* To deselect FAQ Response, click (1), and the FAQ setting at (2) will disappear.
+* To deselect FAQ Response, click (1), and the FAQ setting at (2) & (3) will disappear.
 
 ### Step 3: Customize the number of FAQ repetitions
 
-Enter only numbers in FAQ response repetitions at (2) to limit the number of times the bot responds to the FAQ. (See picture 2)
-
-<figure><img src="../.gitbook/assets/image (67).png" alt=""><figcaption><p>Figure 2: Install and save FAQ response settings.</p></figcaption></figure>
+Enter only numbers in FAQ response repetitions at (2) or/and  (3) to limit the number of times the bot responds to the FAQ.
 
 * If the user leaves the number of repetitions blank, the bot will respond to unlimited FAQs.
 
 ### Step 4: Enter the question again
 
-Enter the question again at (3), the number of characters is limited to 1000. (See picture 2)
+Enter the question again at (4), the number of characters is limited to 1000.
 
 * If the re-ask content is left blank, the bot will finish answering the FAQ and not respond to the repeated content but will continue to wait for the customer to respond again in the context of an ongoing conversation.
-* If you want to add additional question content, please click (4). When creating many different ask-back content, these responses will be randomly selected to respond to customers in the actual conversation.
+* If you want to add additional question content, please click (5). When creating many different ask-back content, these responses will be randomly selected to respond to customers in the actual conversation.
+
+<figure><img src="../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+
+To configure the output flow when the FAQ limit is reached or when the conversation falls back to the default flow, users can add a **“Condition” block** connected to the default response and configure it as follows:
+
+* **fallbackType = NORMAL**: Trigger this path when the number of intent occurrences reaches its limit.
+* **fallbackType = FAQ**: Trigger this path when the total number of FAQ occurrences reaches the overall limit.
+* **fallbackType = SINGLE\_FAQ**: Trigger this path when the occurrence count of a specific FAQ reaches its limit.
 
 ### Step 5: Save FAQ settings
 
@@ -107,4 +134,4 @@ The copy-paste dialogue block feature allows users to copy and paste any dialogu
 
 Copy and paste is applied to all dialogue blocks on V2 scripting.
 
-\
+<br>

@@ -16,8 +16,7 @@ When the intention agree\_to\_buy appears, AI BOT responds to get the correspond
 
 (2) Create connections to corresponding intents/conditions/action blocks \[2]
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
 
